@@ -1,0 +1,47 @@
+.container{
+
+}
+
+/* header */
+
+.header{
+    height: 8rem;
+    background-color : aqua;
+    
+}
+
+.header-text{
+    padding-top: 3rem; 
+    text-align: center;
+}
+
+/* left */
+
+.left-menu{
+    width : 30%;
+    height: 35rem;
+    background-color : royalblue;
+    display: inline-block;
+}
+
+/* right */
+
+.right-menu{
+    width : 70%;
+    height: 35rem;
+    background-color : lightcoral;
+    
+}
+
+/* footer */
+
+.footer{
+    height: 8rem;
+    background-color : gray;
+    
+}
+
+.footer-text{
+    padding-top: 3rem; 
+    text-align: center;
+}
